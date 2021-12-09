@@ -1,0 +1,1 @@
+python3 train.py --algo ppo --env EnduroNoFrameskip-v4 -n 2000000 -optimize --n-trials 10 --sampler tpe --pruner median --optimization-log-path opt_logs --seed 1
