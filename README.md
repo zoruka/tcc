@@ -1,6 +1,6 @@
 # Comparação e Otimização de Algoritmos de Aprendizagem por Reforço Profundo aplicados ao simulador do jogo Enduro do Atari 2600
 
-Esse é o repositório público do trabalho de conclusão de curso da graduação em Engenharia da Computação no [Inatel](https://inatel.br/).
+Esse é o repositório público do Trabalho de Conclusão de Curso da graduação em Engenharia de Computação no [Inatel](https://inatel.br/).
 
 Para saber mais sobre o trabalho leia o nosso [artigo](https://github.com/zoruka/tcc/blob/main/whitepaper.pdf), ou acesse o [armazenamneto em nuvem](https://drive.google.com/drive/folders/1vsse23J2VZFHVaKzWRtNeECPbaDxapoz?usp=sharing).
 
